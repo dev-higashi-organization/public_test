@@ -2,7 +2,9 @@
 
 ## test　branch
 public branchのテストです。
-最終的にgithub pagesで表示するところまでやってみたい。
+
+github pagesでの[表示](https://dev-higashi-organization.github.io/public_test/)
+
 
 [markdown.htmlのページ](/markdown.html "markdown.html")
 
